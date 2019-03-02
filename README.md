@@ -1,4 +1,4 @@
-vsetv.com-grabber
+XMLTV-grabber
 =================
 
 ## English

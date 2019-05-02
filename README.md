@@ -10,6 +10,12 @@ A tv guide grabber from vsetv.com. This script grabs a tv guide in xmltv format 
 * xmltv (https://bitbucket.org/jfunk/python-xmltv)
 * transliterate
 
+## Dependecies Linux Package family debian
+
+apt install python3.pip mercurial
+pip3 install -r requirements.txt
+
+
 ## Usage
 You should have an account on vsetv.com if you want your own tv guide.
 The script created as cli utility. Available keys:

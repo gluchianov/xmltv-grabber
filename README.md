@@ -1,4 +1,4 @@
-XMLTV-grabber
+XMLTV-Grabber Vsetv.com
 =================
 
 ## English
@@ -28,6 +28,9 @@ The script created as cli utility. Available keys:
 `-z`          timezone offset in `+0000` format  
 `--stdout`	  output to stdout
 
+## Usage Exemple :
+
+* python3 xmltv_grabber.py  -u username -p password -d 1  -o xmltv.xml
 
 ## Русский
 Граббер сайта vsetv.com. Извлекает программу телепередач на один и более дней в формате xmltv.

@@ -12,8 +12,8 @@ A tv guide grabber from vsetv.com. This script grabs a tv guide in xmltv format 
 
 ## Dependecies Linux Package family debian
 
-apt install python3.pip mercurial
-pip3 install -r requirements.txt
+* apt install python3.pip mercurial
+* pip3 install -r requirements.txt
 
 
 ## Usage
